@@ -1,0 +1,237 @@
+body {
+    background-image: url("https://1mhowto.com/wp-content/uploads/2015/01/OnlineDating.jpg");
+}
+
+.indexb {
+    background-color: pink;
+    background-size: cover;
+}
+
+.profiles {
+    border-radius: 5px;
+    border: Indigo;
+    background-color: rgba(255,255,0,0.3);
+    padding: 1%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin: 1%;
+    width: 15%;
+    height: 20%;
+    float: left;
+}
+.my_account {
+    border-radius: 5px;
+    border: black;
+    background-color: rgba(89, 0, 253, 0.37);
+    padding: 1%;
+    margin-left: 2%;
+    margin-bottom: 1%;
+    margin: 1%;
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+
+.suggested{
+    border-radius: 5px;
+    border: solid rgba(97, 92, 92, 0.53);
+    padding: 20px;
+
+}
+
+.Button{
+    font-size:13px;
+    font-weight: bold;
+    width:160px;
+    height: 25px;
+    background: white;
+    color: black;
+}
+
+button#cssColorChange:active{
+    color:black;
+    background:#E9405F;
+}
+
+.head1 {
+    background: -webkit-linear-gradient(rgb(219, 110, 130), black);
+    color: white;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+    align-content: center;
+    float: center;
+    margin-bottom: 0px;
+    margin-top: -30px;
+}
+
+.header {
+padding: 60px;
+  text-align: center;
+  background: rgba(0,0,255,0.3);
+  color: white;
+  font-size: 30px;
+}
+
+.logout {
+
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 200px;
+        background-color: #f1f1f1;
+        display: block;
+        color: #000;
+        padding: 8px 16px;
+        text-decoration: none;
+        background-color: rgba(0,255,0,0.3);;
+        color: white;
+      
+      
+}
+
+.footer1 {
+    padding: 1em;
+    color: black;
+    clear: left;
+    text-align: center;
+    text-decoration: none;
+    font-family: serif;
+}
+
+
+
+.button {
+    width: 200px;
+    height: 100;
+    background-color: #585050;
+    margin: 1%;
+    border-radius: 5px;
+    border: none;
+}
+
+.head1 {
+    background: -webkit-linear-gradient(rgb(219, 110, 130), black);
+    
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+    align-content: center;
+    float: center;
+    margin-bottom: 0px;
+    margin-top: -30px;
+}
+
+.head2 {
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-size: 10px;
+}
+
+
+.forgot {
+    color: black;
+    float: center;
+    border-radius: 300px;
+    margin: 15px;
+    font-size: 15px;
+    border: solid black;
+    width: 550px;
+    height: 550px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-55%, -55%);
+}
+
+.container {
+    
+  text-align: center;
+  background: rgba(255, 0, 0, 0.4);
+  color: black;
+  font-size: 20px;
+    
+}
+
+.image_border {
+    padding: 2%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    margin: 2%;
+    width: 20%;
+    height: 40%;
+    float: left;
+    border: 2% solid black;
+    border-radius: 10%;
+    background: -webkit-linear-gradient(top, rgba(221, 142, 188, 0.589), lightskyblue);
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color:lightskyblue;
+    clear: left;
+    text-align: center;
+    border-radius: 5in;
+}
+picture{
+    width: 20%;
+    height: 20%;
+}
+
+.pictures1{
+    width: 20%;
+    height: 20%;
+}
+
+.dropbtn {
+    background-color: rgb(95, 43, 80);
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #8e3e7a49;
+}
+
+.inputText
+{
+    height: 35px !important; 
+    width: 300px  !important;
+    padding-left: 5px;
+    font-size: 15px;
+    
+}
